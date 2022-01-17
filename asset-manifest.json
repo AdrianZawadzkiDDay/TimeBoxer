@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TimeBoxer/static/css/main.3acbf34a.chunk.css",
+    "main.js": "/TimeBoxer/static/js/main.40859cf6.chunk.js",
+    "main.js.map": "/TimeBoxer/static/js/main.40859cf6.chunk.js.map",
+    "runtime~main.js": "/TimeBoxer/static/js/runtime~main.1903fd70.js",
+    "runtime~main.js.map": "/TimeBoxer/static/js/runtime~main.1903fd70.js.map",
+    "static/js/2.aefd7cd1.chunk.js": "/TimeBoxer/static/js/2.aefd7cd1.chunk.js",
+    "static/js/2.aefd7cd1.chunk.js.map": "/TimeBoxer/static/js/2.aefd7cd1.chunk.js.map",
+    "static/js/3.6f4a24c1.chunk.js": "/TimeBoxer/static/js/3.6f4a24c1.chunk.js",
+    "static/js/3.6f4a24c1.chunk.js.map": "/TimeBoxer/static/js/3.6f4a24c1.chunk.js.map",
+    "static/js/4.535e5f42.chunk.js": "/TimeBoxer/static/js/4.535e5f42.chunk.js",
+    "static/js/4.535e5f42.chunk.js.map": "/TimeBoxer/static/js/4.535e5f42.chunk.js.map",
+    "static/js/5.5bacba8d.chunk.js": "/TimeBoxer/static/js/5.5bacba8d.chunk.js",
+    "static/js/5.5bacba8d.chunk.js.map": "/TimeBoxer/static/js/5.5bacba8d.chunk.js.map",
+    "index.html": "/TimeBoxer/index.html",
+    "precache-manifest.522649b14613ac6c65d25afaf80ac8bb.js": "/TimeBoxer/precache-manifest.522649b14613ac6c65d25afaf80ac8bb.js",
+    "service-worker.js": "/TimeBoxer/service-worker.js",
+    "static/css/main.3acbf34a.chunk.css.map": "/TimeBoxer/static/css/main.3acbf34a.chunk.css.map"
+  }
+}
